@@ -3,7 +3,7 @@
 In complex objects with many children, I try not to use - `GetChild` and `transform.parent`, `GetSiblingIndex`. 
 Otherwise, it will be difficult for Senior to modify the hierarchy of objects in the scene.
 I do not use the `Find` function of Unity.
-
+The maximum number of lines in the script is ~ 200-250.
 
 `Encapsulation` -
 1) Open Data - Uppercase Variable Name

@@ -5,7 +5,7 @@ Otherwise, it will be difficult for Senior to modify the hierarchy of objects in
 I do not use the `Find` function of Unity.
 The maximum number of lines in the script is ~ 200-250.
 
-`Encapsulation` -
+**Encapsulation** -
 1) Open Data - Uppercase Variable Name
 2) Private data - Lowercase variable name
 3) I declare open data on top (links to other scripts), closed data on the bottom. Like a bookmarked book.
